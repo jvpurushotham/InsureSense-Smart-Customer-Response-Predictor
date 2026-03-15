@@ -1,4 +1,0 @@
-# mongodb connection
-# username, password, db_name
-# pandupuushotham_db_user, 0BYJPdGylm3qeqaH
-# conn_str = mongodb+srv://pandupuushotham_db_user:<db_password>@cluster0.f8mdg9h.mongodb.net/?appName=Cluster0
